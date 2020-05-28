@@ -1,0 +1,28 @@
+h1 {
+    color: coral;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+.machine {
+    background-color: crimson;
+    border: dashed 3px white;
+    height: 300px;
+    width: 800px;
+    margin-top: 250px;
+    margin-left: 550px;
+    display: flex;
+}
+
+.slot {
+    height: 250px;
+    width: 250px;
+    background-color: floralwhite;
+    margin: 10px;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 80pt;
+    line-height: 220px;
+}
