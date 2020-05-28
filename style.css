@@ -26,3 +26,13 @@ h1 {
     font-size: 80pt;
     line-height: 220px;
 }
+
+@keyframes slotspin {
+    0% {
+        transform: translateY(-100px);
+    }
+
+    100% {
+        transform: translateY(100px);
+    }
+}
